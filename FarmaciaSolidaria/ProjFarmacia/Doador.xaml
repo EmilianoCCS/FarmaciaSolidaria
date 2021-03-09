@@ -1,0 +1,89 @@
+﻿<Controls:MetroWindow x:Class="ProjFarmacia.Doador"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        mc:Ignorable="d"
+        Title="Adicionar doador" Height="871.738" Width="860.123">
+    <Grid>
+        <Label Content="Nome:" HorizontalAlignment="Left" Margin="45,209,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtNome" Height="23" Margin="109,209,47,0" TextWrapping="Wrap" VerticalAlignment="Top" TabIndex="1"/>
+        <Label Content="CPF:" HorizontalAlignment="Left" Margin="45,241,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtCpf" Height="23" Margin="109,241,47,0" TextWrapping="Wrap" VerticalAlignment="Top" TabIndex="2" LostFocus="txtCpf_LostFocus" MaxLength="11" GotFocus="txtCpf_GotFocus" PreviewTextInput="txtCpf_PreviewTextInput"/>
+        <TextBox x:Name="txtEndereco" Height="23" Margin="109,271,47,0" TextWrapping="Wrap" VerticalAlignment="Top" TabIndex="3"/>
+        <Label Content="Estado UF:" HorizontalAlignment="Left" Margin="45,333,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="gbxEstados" Margin="109,333,0,0" VerticalAlignment="Top" TabIndex="5" HorizontalAlignment="Left" Width="80">
+            <ComboBoxItem Content="AC"/>
+            <ComboBoxItem Content="AL"/>
+            <ComboBoxItem Content="AP"/>
+            <ComboBoxItem Content="AM"/>
+            <ComboBoxItem Content="BA"/>
+            <ComboBoxItem Content="CE"/>
+            <ComboBoxItem Content="DF"/>
+            <ComboBoxItem Content="ES"/>
+            <ComboBoxItem Content="GO"/>
+            <ComboBoxItem Content="MA"/>
+            <ComboBoxItem Content="MT"/>
+            <ComboBoxItem Content="MS"/>
+            <ComboBoxItem Content="MG"/>
+            <ComboBoxItem Content="PA"/>
+            <ComboBoxItem Content="PB"/>
+            <ComboBoxItem Content="PR"/>
+            <ComboBoxItem Content="PE"/>
+            <ComboBoxItem Content="PI"/>
+            <ComboBoxItem Content="RJ"/>
+            <ComboBoxItem Content="RN"/>
+            <ComboBoxItem Content="RS"/>
+            <ComboBoxItem Content="RO"/>
+            <ComboBoxItem Content="RR"/>
+            <ComboBoxItem Content="SC"/>
+            <ComboBoxItem Content="SP"/>
+            <ComboBoxItem Content="SE"/>
+            <ComboBoxItem Content="TO"/>
+        </ComboBox>
+        <Label Content="Cidade:" HorizontalAlignment="Left" Margin="227,333,0,0" VerticalAlignment="Top"/>
+
+        <Label Content="Telefone:" HorizontalAlignment="Left" Margin="45,365,0,0" VerticalAlignment="Top"/>
+
+        <Button x:Name="btnCadastrar" Content="Cadastrar" Margin="317,425,0,0" Click="btnCadastrar_Click" TabIndex="9" Height="36" VerticalAlignment="Top" HorizontalAlignment="Left" Width="226"/>
+        <Button x:Name="btnLimpar" Content="Limpar" Margin="651,425,0,0" Click="btnLimpar_Click" TabIndex="10" Height="36" VerticalAlignment="Top" HorizontalAlignment="Left" Width="112"/>
+        <Menu x:Name="Menu" HorizontalAlignment="Left" Height="32" VerticalAlignment="Top" Width="728">
+            <MenuItem Header="Adicionar">
+                <MenuItem x:Name="miRemedio" Header="Remédio" Click="miRemedio_Click"/>
+                <MenuItem x:Name="miDoador" Header="Doador" Click="miDoador_Click"/>
+                <MenuItem x:Name="miInstituicao" Header="Instituição" Click="miInstituicao_Click"/>
+            </MenuItem>
+
+            <MenuItem Header="Estoque">
+                <MenuItem x:Name="miConsultar" Header="Consultar" Click="miConsultar_Click"/>
+            </MenuItem>
+            <MenuItem Header="Doar remédio" Click="MenuItem_Click"/>
+        </Menu>
+        <Button x:Name="btnSair" Content="LOG OFF" FontSize="8" Background="#FF2DB5E8" BorderBrush="#FF2DB5E8" Click="btnSair_Click" HorizontalAlignment="Right" Width="52" Height="29" VerticalAlignment="Top"/>
+        <Label x:Name="label" Content="Endereço:" HorizontalAlignment="Left" Margin="45,271,0,0" VerticalAlignment="Top"/>
+
+        <Label x:Name="label1" Content="Bairro:" HorizontalAlignment="Left" Margin="45,303,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtBairro" Height="23" Margin="109,303,47,0" TextWrapping="Wrap" VerticalAlignment="Top" TabIndex="4"/>
+        <TextBox x:Name="txtCidade" Height="23" Margin="283,333,47,0" TextWrapping="Wrap" VerticalAlignment="Top" TabIndex="6"/>
+        <TextBox x:Name="txtTelefone" Height="23" Margin="109,365,47,0" TextWrapping="Wrap" VerticalAlignment="Top" TabIndex="7" LostFocus="txtTelefone_LostFocus" MaxLength="11" GotFocus="txtTelefone_GotFocus" PreviewTextInput="txtTelefone_PreviewTextInput"/>
+        <DataGrid x:Name="dgDoador" Margin="45,561,48,0" CanUserAddRows="False" AutoGenerateColumns="False" Height="215" VerticalAlignment="Top">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Path=Id}" Header="ID" />
+                <DataGridTextColumn Binding="{Binding Path=Nome}" Header="Nome" />
+                <DataGridTextColumn Binding="{Binding Path=Cpf}" Header="CPF" />
+                <DataGridTextColumn Binding="{Binding Path=Telefone}" Header="Telefone" />
+                <DataGridTextColumn Binding="{Binding Path=Endereco}" Header="Endereço" />
+                <DataGridTextColumn Binding="{Binding Path=Bairro}" Header="Bairro" />
+                <DataGridTextColumn Binding="{Binding Path=Estado}" Header="UF" />
+                <DataGridTextColumn Binding="{Binding Path=Cidade}" Header="Cidade" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="btnPesquisar" Content="Pesquisar" Margin="459,510,0,0" Click="btnPesquisar_Click" Height="26" VerticalAlignment="Top" HorizontalAlignment="Left" Width="84"/>
+        <TextBox x:Name="txtPesquisar" HorizontalAlignment="Left" Height="23" Margin="45,511,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="401" TabIndex="8" Text="Pesquise pelo ID" GotFocus="txtPesquisar_GotFocus" PreviewTextInput="txtPesquisar_PreviewTextInput"/>
+        <Button x:Name="btnAtualizar" Content="Atualizar Dados" Margin="109,425,0,0" Click="btnAtualizar_Click" TabIndex="12" Height="36" VerticalAlignment="Top" HorizontalAlignment="Left" Width="112"/>
+        <Image Margin="312,167,0,0" Source="36063748_1940821539542727_8216732737483046912_n.png" Stretch="Fill" Height="38" VerticalAlignment="Top" HorizontalAlignment="Left" Width="267"/>
+        <Image Margin="383,32,0,0" Source="LogoPNG.png" Stretch="Fill" HorizontalAlignment="Left" Width="130" Height="130" VerticalAlignment="Top"/>
+    </Grid>
+</Controls:MetroWindow>
+

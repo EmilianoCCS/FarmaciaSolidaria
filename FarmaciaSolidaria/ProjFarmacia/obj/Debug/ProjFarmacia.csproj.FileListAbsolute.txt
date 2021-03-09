@@ -1,0 +1,687 @@
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\bin\Debug\ProjFarmacia.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\obj\Debug\ProjFarmacia.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\obj\Debug\MainWindow.baml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\obj\Debug\MainWindow.g.cs
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\obj\Debug\App.g.cs
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.cache
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.lref
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\bin\Debug\ProjFarmacia.exe
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\bin\Debug\ProjFarmacia.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\bin\Debug\ControlzEx.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\bin\Debug\MahApps.Metro.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\bin\Debug\System.Windows.Interactivity.dll
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\bin\Debug\ControlzEx.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\bin\Debug\MahApps.Metro.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\bin\Debug\MahApps.Metro.xml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\obj\Debug\App.baml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\obj\Debug\ProjFarmacia.g.resources
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\obj\Debug\ProjFarmacia.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\obj\Debug\ProjFarmacia.exe
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\obj\Debug\ProjFarmacia.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\obj\Debug\Historico.baml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\obj\Debug\Historico.g.cs
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\obj\Debug\ConsultaEstoque.baml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\obj\Debug\Doador.baml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\obj\Debug\Estoque.baml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\obj\Debug\Instituicao.baml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\obj\Debug\Remedio.baml
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\obj\Debug\ConsultaEstoque.g.cs
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\obj\Debug\Doador.g.cs
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\obj\Debug\Estoque.g.cs
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\obj\Debug\Instituicao.g.cs
+c:\users\aluno\documents\visual studio 2015\Projects\ProjFarmacia\ProjFarmacia\obj\Debug\Remedio.g.cs
+E:\ProjFarmacia\ProjFarmacia\bin\Debug\ProjFarmacia.exe.config
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\ProjFarmacia.exe
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\ProjFarmacia.pdb
+F:\ProjFarmacia\ProjFarmacia\bin\Debug\ProjFarmacia.exe.config
+F:\ProjFarmacia\ProjFarmacia\obj\Debug\ProjFarmacia.exe
+F:\ProjFarmacia\ProjFarmacia\obj\Debug\ProjFarmacia.pdb
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\ProjFarmacia.csprojResolveAssemblyReference.cache
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\ConsultaEstoque.baml
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\Doador.baml
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\Estoque.baml
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\Historico.baml
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\Instituicao.baml
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\MainWindow.baml
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\Remedio.baml
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\RemedioDoado.baml
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\Saida.baml
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\ConsultaEstoque.g.cs
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\Doador.g.cs
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\Estoque.g.cs
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\Historico.g.cs
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\Instituicao.g.cs
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\MainWindow.g.cs
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\Remedio.g.cs
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\RemedioDoado.g.cs
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\Saida.g.cs
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\App.g.cs
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.cache
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.lref
+E:\ProjFarmacia\ProjFarmacia\bin\Debug\ProjFarmacia.exe
+E:\ProjFarmacia\ProjFarmacia\bin\Debug\ProjFarmacia.pdb
+E:\ProjFarmacia\ProjFarmacia\bin\Debug\ControlzEx.dll
+E:\ProjFarmacia\ProjFarmacia\bin\Debug\EntityFramework.dll
+E:\ProjFarmacia\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProjFarmacia\ProjFarmacia\bin\Debug\MahApps.Metro.dll
+E:\ProjFarmacia\ProjFarmacia\bin\Debug\System.Windows.Interactivity.dll
+E:\ProjFarmacia\ProjFarmacia\bin\Debug\ControlzEx.pdb
+E:\ProjFarmacia\ProjFarmacia\bin\Debug\EntityFramework.xml
+E:\ProjFarmacia\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProjFarmacia\ProjFarmacia\bin\Debug\MahApps.Metro.pdb
+E:\ProjFarmacia\ProjFarmacia\bin\Debug\MahApps.Metro.xml
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\App.baml
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\ProjFarmacia.g.resources
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\ProjFarmacia.Properties.Resources.resources
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.GenerateResource.cache
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.CoreCompileInputs.cache
+E:\ProjFarmacia\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.CopyComplete
+F:\ProjFarmacia\ProjFarmacia\bin\Debug\ProjFarmacia.exe
+F:\ProjFarmacia\ProjFarmacia\bin\Debug\ProjFarmacia.pdb
+F:\ProjFarmacia\ProjFarmacia\bin\Debug\ControlzEx.dll
+F:\ProjFarmacia\ProjFarmacia\bin\Debug\EntityFramework.dll
+F:\ProjFarmacia\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.dll
+F:\ProjFarmacia\ProjFarmacia\bin\Debug\MahApps.Metro.dll
+F:\ProjFarmacia\ProjFarmacia\bin\Debug\System.Windows.Interactivity.dll
+F:\ProjFarmacia\ProjFarmacia\bin\Debug\ControlzEx.pdb
+F:\ProjFarmacia\ProjFarmacia\bin\Debug\EntityFramework.xml
+F:\ProjFarmacia\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.xml
+F:\ProjFarmacia\ProjFarmacia\bin\Debug\MahApps.Metro.pdb
+F:\ProjFarmacia\ProjFarmacia\bin\Debug\MahApps.Metro.xml
+F:\ProjFarmacia\ProjFarmacia\obj\Debug\ProjFarmacia.csprojResolveAssemblyReference.cache
+F:\ProjFarmacia\ProjFarmacia\obj\Debug\ConsultaEstoque.baml
+F:\ProjFarmacia\ProjFarmacia\obj\Debug\Doador.baml
+F:\ProjFarmacia\ProjFarmacia\obj\Debug\Estoque.baml
+F:\ProjFarmacia\ProjFarmacia\obj\Debug\Historico.baml
+F:\ProjFarmacia\ProjFarmacia\obj\Debug\Instituicao.baml
+F:\ProjFarmacia\ProjFarmacia\obj\Debug\MainWindow.baml
+F:\ProjFarmacia\ProjFarmacia\obj\Debug\Remedio.baml
+F:\ProjFarmacia\ProjFarmacia\obj\Debug\RemedioDoado.baml
+F:\ProjFarmacia\ProjFarmacia\obj\Debug\Saida.baml
+F:\ProjFarmacia\ProjFarmacia\obj\Debug\ConsultaEstoque.g.cs
+F:\ProjFarmacia\ProjFarmacia\obj\Debug\Doador.g.cs
+F:\ProjFarmacia\ProjFarmacia\obj\Debug\Estoque.g.cs
+F:\ProjFarmacia\ProjFarmacia\obj\Debug\Historico.g.cs
+F:\ProjFarmacia\ProjFarmacia\obj\Debug\Instituicao.g.cs
+F:\ProjFarmacia\ProjFarmacia\obj\Debug\MainWindow.g.cs
+F:\ProjFarmacia\ProjFarmacia\obj\Debug\Remedio.g.cs
+F:\ProjFarmacia\ProjFarmacia\obj\Debug\RemedioDoado.g.cs
+F:\ProjFarmacia\ProjFarmacia\obj\Debug\Saida.g.cs
+F:\ProjFarmacia\ProjFarmacia\obj\Debug\App.g.cs
+F:\ProjFarmacia\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.cache
+F:\ProjFarmacia\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.lref
+F:\ProjFarmacia\ProjFarmacia\obj\Debug\App.baml
+F:\ProjFarmacia\ProjFarmacia\obj\Debug\ProjFarmacia.g.resources
+F:\ProjFarmacia\ProjFarmacia\obj\Debug\ProjFarmacia.Properties.Resources.resources
+F:\ProjFarmacia\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.GenerateResource.Cache
+F:\ProjFarmacia v1.1\ProjFarmacia\bin\Debug\ProjFarmacia.exe.config
+F:\ProjFarmacia v1.1\ProjFarmacia\obj\Debug\ProjFarmacia.exe
+F:\ProjFarmacia v1.1\ProjFarmacia\obj\Debug\ProjFarmacia.pdb
+F:\ProjFarmacia v1.1\ProjFarmacia\bin\Debug\ProjFarmacia.exe
+F:\ProjFarmacia v1.1\ProjFarmacia\bin\Debug\ProjFarmacia.pdb
+F:\ProjFarmacia v1.1\ProjFarmacia\bin\Debug\ControlzEx.dll
+F:\ProjFarmacia v1.1\ProjFarmacia\bin\Debug\EntityFramework.dll
+F:\ProjFarmacia v1.1\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.dll
+F:\ProjFarmacia v1.1\ProjFarmacia\bin\Debug\MahApps.Metro.dll
+F:\ProjFarmacia v1.1\ProjFarmacia\bin\Debug\System.Windows.Interactivity.dll
+F:\ProjFarmacia v1.1\ProjFarmacia\bin\Debug\ControlzEx.pdb
+F:\ProjFarmacia v1.1\ProjFarmacia\bin\Debug\EntityFramework.xml
+F:\ProjFarmacia v1.1\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.xml
+F:\ProjFarmacia v1.1\ProjFarmacia\bin\Debug\MahApps.Metro.pdb
+F:\ProjFarmacia v1.1\ProjFarmacia\bin\Debug\MahApps.Metro.xml
+F:\ProjFarmacia v1.1\ProjFarmacia\obj\Debug\ProjFarmacia.csprojResolveAssemblyReference.cache
+F:\ProjFarmacia v1.1\ProjFarmacia\obj\Debug\ConsultaEstoque.baml
+F:\ProjFarmacia v1.1\ProjFarmacia\obj\Debug\Doador.baml
+F:\ProjFarmacia v1.1\ProjFarmacia\obj\Debug\Estoque.baml
+F:\ProjFarmacia v1.1\ProjFarmacia\obj\Debug\Historico.baml
+F:\ProjFarmacia v1.1\ProjFarmacia\obj\Debug\Instituicao.baml
+F:\ProjFarmacia v1.1\ProjFarmacia\obj\Debug\MainWindow.baml
+F:\ProjFarmacia v1.1\ProjFarmacia\obj\Debug\Remedio.baml
+F:\ProjFarmacia v1.1\ProjFarmacia\obj\Debug\RemedioDoado.baml
+F:\ProjFarmacia v1.1\ProjFarmacia\obj\Debug\Saida.baml
+F:\ProjFarmacia v1.1\ProjFarmacia\obj\Debug\ConsultaEstoque.g.cs
+F:\ProjFarmacia v1.1\ProjFarmacia\obj\Debug\Doador.g.cs
+F:\ProjFarmacia v1.1\ProjFarmacia\obj\Debug\Estoque.g.cs
+F:\ProjFarmacia v1.1\ProjFarmacia\obj\Debug\Historico.g.cs
+F:\ProjFarmacia v1.1\ProjFarmacia\obj\Debug\Instituicao.g.cs
+F:\ProjFarmacia v1.1\ProjFarmacia\obj\Debug\MainWindow.g.cs
+F:\ProjFarmacia v1.1\ProjFarmacia\obj\Debug\Remedio.g.cs
+F:\ProjFarmacia v1.1\ProjFarmacia\obj\Debug\RemedioDoado.g.cs
+F:\ProjFarmacia v1.1\ProjFarmacia\obj\Debug\Saida.g.cs
+F:\ProjFarmacia v1.1\ProjFarmacia\obj\Debug\App.g.cs
+F:\ProjFarmacia v1.1\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.cache
+F:\ProjFarmacia v1.1\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.lref
+F:\ProjFarmacia v1.1\ProjFarmacia\obj\Debug\App.baml
+F:\ProjFarmacia v1.1\ProjFarmacia\obj\Debug\ProjFarmacia.g.resources
+F:\ProjFarmacia v1.1\ProjFarmacia\obj\Debug\ProjFarmacia.Properties.Resources.resources
+F:\ProjFarmacia v1.1\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.GenerateResource.Cache
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\bin\Debug\ProjFarmacia.exe.config
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\obj\Debug\ProjFarmacia.exe
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\obj\Debug\ProjFarmacia.pdb
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\obj\Debug\ProjFarmacia.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\obj\Debug\ConsultaEstoque.baml
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\obj\Debug\Doador.baml
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\obj\Debug\Estoque.baml
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\obj\Debug\Instituicao.baml
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\obj\Debug\MainWindow.baml
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\obj\Debug\RemedioDoado.baml
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\obj\Debug\Saida.baml
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\obj\Debug\ConsultaEstoque.g.cs
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\obj\Debug\Doador.g.cs
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\obj\Debug\Estoque.g.cs
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\obj\Debug\Instituicao.g.cs
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\obj\Debug\MainWindow.g.cs
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\obj\Debug\RemedioDoado.g.cs
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\obj\Debug\Saida.g.cs
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\obj\Debug\App.g.cs
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.cache
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.lref
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\bin\Debug\ProjFarmacia.exe
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\bin\Debug\ProjFarmacia.pdb
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\bin\Debug\ControlzEx.dll
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\bin\Debug\EntityFramework.dll
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\bin\Debug\MahApps.Metro.dll
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\bin\Debug\ControlzEx.pdb
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\bin\Debug\EntityFramework.xml
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\bin\Debug\MahApps.Metro.pdb
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\bin\Debug\MahApps.Metro.xml
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\obj\Debug\App.baml
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\obj\Debug\ProjFarmacia.g.resources
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\obj\Debug\ProjFarmacia.Properties.Resources.resources
+C:\Users\aluno\Downloads\ProjFarmacia v1.1.1\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.GenerateResource.Cache
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\bin\Debug\ProjFarmacia.exe.config
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\obj\Debug\ProjFarmacia.exe
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\obj\Debug\ProjFarmacia.pdb
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\bin\Debug\ProjFarmacia.exe
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\bin\Debug\ProjFarmacia.pdb
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\bin\Debug\ControlzEx.dll
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\bin\Debug\EntityFramework.dll
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\bin\Debug\MahApps.Metro.dll
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\bin\Debug\ControlzEx.pdb
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\bin\Debug\EntityFramework.xml
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\bin\Debug\MahApps.Metro.pdb
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\bin\Debug\MahApps.Metro.xml
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\obj\Debug\ProjFarmacia.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\obj\Debug\ConsultaEstoque.baml
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\obj\Debug\Doador.baml
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\obj\Debug\Estoque.baml
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\obj\Debug\Instituicao.baml
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\obj\Debug\MainWindow.baml
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\obj\Debug\RemedioDoado.baml
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\obj\Debug\Saida.baml
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\obj\Debug\ConsultaEstoque.g.cs
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\obj\Debug\Doador.g.cs
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\obj\Debug\Estoque.g.cs
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\obj\Debug\Instituicao.g.cs
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\obj\Debug\MainWindow.g.cs
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\obj\Debug\RemedioDoado.g.cs
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\obj\Debug\Saida.g.cs
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\obj\Debug\App.g.cs
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.cache
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.lref
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\obj\Debug\App.baml
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\obj\Debug\ProjFarmacia.g.resources
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\obj\Debug\ProjFarmacia.Properties.Resources.resources
+C:\Users\aluno\Downloads\ProjFarmacia v1.2\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.GenerateResource.Cache
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\bin\Debug\ProjFarmacia.exe.config
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\bin\Debug\ProjFarmacia.exe
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\bin\Debug\ProjFarmacia.pdb
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\bin\Debug\ControlzEx.dll
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\bin\Debug\EntityFramework.dll
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\bin\Debug\MahApps.Metro.dll
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\bin\Debug\ControlzEx.pdb
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\bin\Debug\EntityFramework.xml
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\bin\Debug\MahApps.Metro.pdb
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\bin\Debug\MahApps.Metro.xml
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\obj\Debug\ProjFarmacia.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\obj\Debug\ConsultaEstoque.baml
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\obj\Debug\Doador.baml
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\obj\Debug\Instituicao.baml
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\obj\Debug\MainWindow.baml
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\obj\Debug\RemedioDoado.baml
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\obj\Debug\Saida.baml
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\obj\Debug\ConsultaEstoque.g.cs
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\obj\Debug\Doador.g.cs
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\obj\Debug\Instituicao.g.cs
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\obj\Debug\MainWindow.g.cs
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\obj\Debug\RemedioDoado.g.cs
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\obj\Debug\Saida.g.cs
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\obj\Debug\App.g.cs
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.cache
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.lref
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\obj\Debug\App.baml
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\obj\Debug\ProjFarmacia.g.resources
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\obj\Debug\ProjFarmacia.Properties.Resources.resources
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.GenerateResource.Cache
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\obj\Debug\ProjFarmacia.exe
+C:\Users\aluno\Downloads\ProjFarmacia v1.3\ProjFarmacia\obj\Debug\ProjFarmacia.pdb
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.exe.config
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.exe
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.pdb
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.exe
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.pdb
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ControlzEx.dll
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.dll
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.dll
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ControlzEx.pdb
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.xml
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.pdb
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.xml
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ConsultaEstoque.baml
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Doador.baml
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Instituicao.baml
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\MainWindow.baml
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\RemedioDoado.baml
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Saida.baml
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ConsultaEstoque.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Doador.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Instituicao.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\MainWindow.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\RemedioDoado.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Saida.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\App.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.cache
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.lref
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\App.baml
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.g.resources
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.Properties.Resources.resources
+C:\Users\aluno\Desktop\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.exe.config
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.exe
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.pdb
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.exe
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.pdb
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ControlzEx.dll
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.dll
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.dll
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ControlzEx.pdb
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.xml
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.pdb
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.xml
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ConsultaEstoque.baml
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Doador.baml
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Instituicao.baml
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\MainWindow.baml
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\RemedioDoado.baml
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Saida.baml
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ConsultaEstoque.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Doador.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Instituicao.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\MainWindow.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\RemedioDoado.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Saida.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\App.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.cache
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.lref
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\App.baml
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.g.resources
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.Properties.Resources.resources
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.GenerateResource.Cache
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.exe.config
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.exe
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.pdb
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.exe
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.pdb
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ControlzEx.dll
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.dll
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.dll
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.dll
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\System.Windows.Interactivity.dll
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ControlzEx.pdb
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.xml
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.xml
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.pdb
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.xml
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csprojResolveAssemblyReference.cache
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ConsultaEstoque.baml
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Doador.baml
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Instituicao.baml
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\MainWindow.baml
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\RemedioDoado.baml
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Saida.baml
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ConsultaEstoque.g.cs
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Doador.g.cs
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Instituicao.g.cs
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\MainWindow.g.cs
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\RemedioDoado.g.cs
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Saida.g.cs
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\App.g.cs
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.cache
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.lref
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\App.baml
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.g.resources
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.Properties.Resources.resources
+F:\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.GenerateResource.Cache
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.exe.config
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.exe
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.pdb
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csprojResolveAssemblyReference.cache
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ConsultaEstoque.baml
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Doador.baml
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Instituicao.baml
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\MainWindow.baml
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\RemedioDoado.baml
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Saida.baml
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ConsultaEstoque.g.cs
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Doador.g.cs
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Instituicao.g.cs
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\MainWindow.g.cs
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\RemedioDoado.g.cs
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Saida.g.cs
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\App.g.cs
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.cache
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.lref
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.exe
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.pdb
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ControlzEx.dll
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.dll
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.dll
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ControlzEx.pdb
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.xml
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.pdb
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.xml
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\App.baml
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.g.resources
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.Properties.Resources.resources
+C:\Users\Usuário\Desktop\ProjFarmacia v1.5.3\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.exe.config
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.exe
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.pdb
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ControlzEx.dll
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.dll
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.dll
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ControlzEx.pdb
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.xml
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.pdb
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.xml
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ConsultaEstoque.baml
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Doador.baml
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Instituicao.baml
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\MainWindow.baml
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\RemedioDoado.baml
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Saida.baml
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ConsultaEstoque.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Doador.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Instituicao.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\MainWindow.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\RemedioDoado.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Saida.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\App.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.cache
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.lref
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\App.baml
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.g.resources
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.Properties.Resources.resources
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.exe
+C:\Users\aluno\Desktop\ProjFarmacia v1.5.3 ultima versao\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.pdb
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.exe.config
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.exe
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.pdb
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ControlzEx.dll
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.dll
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.dll
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.dll
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\System.Windows.Interactivity.dll
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ControlzEx.pdb
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.xml
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.xml
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.pdb
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.xml
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csprojResolveAssemblyReference.cache
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ConsultaEstoque.baml
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Doador.baml
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Instituicao.baml
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\MainWindow.baml
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\RemedioDoado.baml
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Saida.baml
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ConsultaEstoque.g.cs
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Doador.g.cs
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Instituicao.g.cs
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\MainWindow.g.cs
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\RemedioDoado.g.cs
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Saida.g.cs
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\App.g.cs
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.cache
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.lref
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\App.baml
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.g.resources
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.Properties.Resources.resources
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.GenerateResource.Cache
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.CoreCompileInputs.cache
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.exe
+D:\E T E C\TCC\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.pdb
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.exe.config
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.exe
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.pdb
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ControlzEx.dll
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.dll
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.dll
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ControlzEx.pdb
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.xml
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.pdb
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.xml
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ConsultaEstoque.baml
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Doador.baml
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Instituicao.baml
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\MainWindow.baml
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\RemedioDoado.baml
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Saida.baml
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ConsultaEstoque.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Doador.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Instituicao.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\MainWindow.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\RemedioDoado.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Saida.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\App.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.cache
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.lref
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\App.baml
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.g.resources
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.Properties.Resources.resources
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.exe
+C:\Users\aluno\Desktop\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.pdb
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.exe.config
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.exe
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.pdb
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.exe
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.pdb
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ControlzEx.dll
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.dll
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.dll
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ControlzEx.pdb
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.xml
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.pdb
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.xml
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ConsultaEstoque.baml
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Doador.baml
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Instituicao.baml
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\MainWindow.baml
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\RemedioDoado.baml
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Saida.baml
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ConsultaEstoque.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Doador.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Instituicao.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\MainWindow.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\RemedioDoado.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Saida.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\App.g.cs
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.cache
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.lref
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\App.baml
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.g.resources
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.Properties.Resources.resources
+C:\Users\aluno\Desktop\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.GenerateResource.Cache
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.exe.config
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.exe
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.pdb
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ControlzEx.dll
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.dll
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.dll
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.dll
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\System.Windows.Interactivity.dll
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ControlzEx.pdb
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.xml
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.xml
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.pdb
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.xml
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csprojResolveAssemblyReference.cache
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ConsultaEstoque.baml
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Doador.baml
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Instituicao.baml
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\MainWindow.baml
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\RemedioDoado.baml
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Saida.baml
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ConsultaEstoque.g.cs
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Doador.g.cs
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Instituicao.g.cs
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\MainWindow.g.cs
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\RemedioDoado.g.cs
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Saida.g.cs
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\App.g.cs
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.cache
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.lref
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\App.baml
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.g.resources
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.Properties.Resources.resources
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.GenerateResource.Cache
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.CoreCompileInputs.cache
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.exe
+D:\E T E C\TCC\ProjFarmacia 2.5\Projfarmacia final\ProjFarmacia final\ProjFarmacia v2.0\ProjFarmacia v1.5.2\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.pdb
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.exe.config
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.exe
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.pdb
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ControlzEx.dll
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.dll
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.dll
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.dll
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\System.Windows.Interactivity.dll
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ControlzEx.pdb
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.xml
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.xml
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.pdb
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.xml
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csprojResolveAssemblyReference.cache
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ConsultaEstoque.baml
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Doador.baml
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Instituicao.baml
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\MainWindow.baml
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\RemedioDoado.baml
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Saida.baml
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ConsultaEstoque.g.cs
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Doador.g.cs
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Instituicao.g.cs
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\MainWindow.g.cs
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\RemedioDoado.g.cs
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Saida.g.cs
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\App.g.cs
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.cache
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.lref
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\App.baml
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.g.resources
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.Properties.Resources.resources
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.GenerateResource.Cache
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.CoreCompileInputs.cache
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.exe
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.pdb
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.exe.manifest
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.application
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.exe.manifest
+D:\E T E C\TCC\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.application
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.exe.config
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.exe.manifest
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.application
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.exe
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ProjFarmacia.pdb
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ControlzEx.dll
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.dll
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.dll
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.dll
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\System.Windows.Interactivity.dll
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\ControlzEx.pdb
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.xml
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\EntityFramework.SqlServer.xml
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.pdb
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\bin\Debug\MahApps.Metro.xml
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csprojResolveAssemblyReference.cache
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ConsultaEstoque.baml
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Doador.baml
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Instituicao.baml
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\MainWindow.baml
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\RemedioDoado.baml
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Saida.baml
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ConsultaEstoque.g.cs
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Doador.g.cs
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Instituicao.g.cs
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\MainWindow.g.cs
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\RemedioDoado.g.cs
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Saida.g.cs
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\App.g.cs
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.cache
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.lref
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\App.baml
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.g.resources
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.Properties.Resources.resources
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.GenerateResource.Cache
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.CoreCompileInputs.cache
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.exe.manifest
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.application
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.exe
+D:\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.pdb
+D:\Backup 03-09-19\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csprojAssemblyReference.cache
+D:\Backup 03-09-19\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ConsultaEstoque.baml
+D:\Backup 03-09-19\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Doador.baml
+D:\Backup 03-09-19\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Instituicao.baml
+D:\Backup 03-09-19\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\MainWindow.baml
+D:\Backup 03-09-19\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\RemedioDoado.baml
+D:\Backup 03-09-19\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Saida.baml
+D:\Backup 03-09-19\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ConsultaEstoque.g.cs
+D:\Backup 03-09-19\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Doador.g.cs
+D:\Backup 03-09-19\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Instituicao.g.cs
+D:\Backup 03-09-19\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\MainWindow.g.cs
+D:\Backup 03-09-19\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\RemedioDoado.g.cs
+D:\Backup 03-09-19\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\Saida.g.cs
+D:\Backup 03-09-19\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\App.g.cs
+D:\Backup 03-09-19\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.cache
+D:\Backup 03-09-19\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.lref
+D:\Backup 03-09-19\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\App.baml
+D:\Backup 03-09-19\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.g.resources
+D:\Backup 03-09-19\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.Properties.Resources.resources
+D:\Backup 03-09-19\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.GenerateResource.cache
+D:\Backup 03-09-19\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.CoreCompileInputs.cache
+D:\Backup 03-09-19\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.exe
+D:\Backup 03-09-19\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.pdb

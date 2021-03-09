@@ -1,0 +1,76 @@
+﻿<Controls:MetroWindow x:Class="ProjFarmacia.RemedioDoado"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        mc:Ignorable="d"
+        Title="Doação de remédios" Height="917.984" Width="834.688">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="label" Content="Nome Remedio:" HorizontalAlignment="Left" Margin="10,222,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtNomeRemedio" Height="23" Margin="115,222,83,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtPrincipioAtivo" Height="23" Margin="115,254,83,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <DatePicker x:Name="DateVencimento" Margin="533,284,83,0" VerticalAlignment="Top" PreviewTextInput="DateVencimento_PreviewTextInput"/>
+        <DatePicker x:Name="DateEntrada" HorizontalAlignment="Left" Margin="115,285,0,0" VerticalAlignment="Top" Width="290" PreviewTextInput="DateEntrada_PreviewTextInput" RenderTransformOrigin="0.5,0.5">
+            <DatePicker.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.052"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </DatePicker.RenderTransform>
+        </DatePicker>
+        <TextBox x:Name="txtQuantidade" Height="23" Margin="115,315,83,0" TextWrapping="Wrap" VerticalAlignment="Top" PreviewTextInput="txtQuantidade_PreviewTextInput"/>
+        <ComboBox x:Name="ComboBoDoador" Margin="115,346,83,0" VerticalAlignment="Top" DisplayMemberPath="{Binding Nome}" SelectionChanged="ComboBoDoador_SelectionChanged"/>
+        <Button x:Name="btnCadastrar" Content="Cadastrar" Margin="316,395,0,0" VerticalAlignment="Top" Height="36" Click="btnCadastrar_Click" HorizontalAlignment="Left" Width="212"/>
+        <Button x:Name="btnAtualizar" Content="Atualizar Dados" HorizontalAlignment="Left" Margin="115,395,0,0" VerticalAlignment="Top" Width="112" Click="btnAtualizar_Click" Height="36"/>
+        <Button x:Name="btnLimpar" Content="Limpar" HorizontalAlignment="Left" Margin="616,395,0,0" VerticalAlignment="Top" Height="36" Width="112" Click="btnLimpar_Click"/>
+
+        <Menu x:Name="Menu" Height="30" VerticalAlignment="Top" Margin="0,0,14,0">
+            <MenuItem Header="Adicionar">
+                <MenuItem x:Name="miRemedio" Header="Remédio" Click="miRemedio_Click"/>
+                <MenuItem x:Name="miDoador" Header="Doador" Click="miDoador_Click"/>
+                <MenuItem x:Name="miInstituicao" Header="Instituição" Click="miInstituicao_Click"/>
+            </MenuItem>
+            <MenuItem Header="Estoque">
+                <MenuItem x:Name="miConsultar" Header="Consultar" Click="miConsultar_Click"/>
+            </MenuItem>
+            <MenuItem x:Name="miSaida" Header="Doar remédio" Click="miSaida_Click"/>
+        </Menu>
+        <Label x:Name="label1" Content="Data Vencimento:" HorizontalAlignment="Left" Margin="424,284,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Nome Doador" HorizontalAlignment="Left" Margin="10,346,0,0" VerticalAlignment="Top"/>
+
+
+        <Label x:Name="label3" Content="Data Entrada:" HorizontalAlignment="Left" Margin="10,285,0,0" VerticalAlignment="Top"/>
+
+        <Label x:Name="label4" Content="Quantidade" HorizontalAlignment="Left" Margin="10,315,0,0" VerticalAlignment="Top"/>
+
+        <Label x:Name="label5" Content="Principio Ativo:" HorizontalAlignment="Left" Margin="10,254,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.139,0.913"/>
+
+        <DataGrid x:Name="dgRemedio" Margin="10,516,27,20" CanUserAddRows="False" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Path=Id}" Header="ID" />
+                <DataGridTextColumn Binding="{Binding Path=Doadores.Nome}" Header="Nome do Doador" />
+                <DataGridTextColumn Binding="{Binding Path=Nome}" Header="Nome do Remedio" />
+                <DataGridTextColumn Binding="{Binding Path=PrincipioAtivo}" Header="Principio Ativo" />
+                <DataGridTextColumn Binding="{Binding Path=Quantidade}" Header="Quantidade" />
+                <DataGridTextColumn Binding="{Binding Path=Validade, ConverterCulture='pt-BR', StringFormat= d}" Header="Data de Validade" />
+                <DataGridTextColumn Binding="{Binding Path=Entrada, ConverterCulture='pt-BR', StringFormat= d}" Header="Data de entrada" />
+
+
+            </DataGrid.Columns>
+        </DataGrid>
+
+
+        <Button x:Name="btnPesquisar" Content="Pesquisar" Margin="436,461,0,0" VerticalAlignment="Top" Click="btnPesquisar_Click" HorizontalAlignment="Left" Width="89"/>
+        <TextBox x:Name="txtPesquisar" Height="23" Margin="10,462,0,0" TextWrapping="Wrap" VerticalAlignment="Top" TabIndex="8" Text="Pesquise pelo ID" GotFocus="txtPesquisar_GotFocus" PreviewTextInput="txtPesquisar_PreviewTextInput" HorizontalAlignment="Left" Width="396"/>
+        <Button x:Name="btnSair" Content="LOG OFF" VerticalAlignment="Top" Height="29" FontSize="8" Background="#FF2DB5E8" HorizontalAlignment="Right" Width="60" Click="btnSair_Click"/>
+        <Image Margin="275,170,0,0" Source="36063748_1940821539542727_8216732737483046912_n.png" Stretch="Fill" HorizontalAlignment="Left" Width="267" Height="38" VerticalAlignment="Top"/>
+        <Image Margin="346,35,0,0" Source="LogoPNG.png" Stretch="Fill" HorizontalAlignment="Left" Width="130" Height="130" VerticalAlignment="Top"/>
+
+    </Grid>
+</Controls:MetroWindow>

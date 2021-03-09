@@ -1,0 +1,42 @@
+﻿<Controls:MetroWindow x:Class="ProjFarmacia.ConsultaEstoque"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        mc:Ignorable="d"
+        Title="Consulta" Height="666.087" Width="609.051">
+    <Grid x:Name="btnSair">
+
+        <Menu x:Name="Menu" Height="29" VerticalAlignment="Top" Margin="0,0,42,0">
+            <MenuItem Header="Adicionar" HorizontalAlignment="Center">
+                <MenuItem x:Name="miRemedio" Header="Remédio" Click="miRemedio_Click"/>
+                <MenuItem x:Name="miDoador" Header="Doador" Click="miDoador_Click"/>
+                <MenuItem x:Name="miInstituicao" Header="Instituição" Click="miInstituicao_Click"/>
+            </MenuItem>
+            <MenuItem Header="Estoque">
+                <MenuItem x:Name="miConsultar" Header="Consultar" Click="miConsultar_Click"/>
+            </MenuItem>
+            <MenuItem Header="Doar remédio" Click="MenuItem_Click"/>
+        </Menu>
+        <DataGrid x:Name="dtgTudo" Margin="9,332,9,13" CanUserAddRows="False" AutoGenerateColumns="False">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Id}" Header="ID" />
+                <DataGridTextColumn Binding="{Binding Doadores.Nome}" Header="Doador" />
+                <DataGridTextColumn Binding="{Binding Instituicoes.Nome}" Header="Instituição" />
+                <DataGridTextColumn Binding="{Binding Remedios.Nome}" Header="Remédio" />
+                <DataGridTextColumn Binding="{Binding DataSaida, ConverterCulture=pt-BR, StringFormat=d}" Header="Data de saida" />
+                <DataGridTextColumn Binding="{Binding Remedios.Quantidade}" Header="Quantidade restante"  />
+            </DataGrid.Columns>
+
+        </DataGrid>
+        <TextBox x:Name="txtPesquisar" Height="23" Margin="173,269,0,0" TextWrapping="Wrap" VerticalAlignment="Top" GotFocus="txtPesquisar_GotFocus" HorizontalAlignment="Left" Width="202"/>
+        <Label x:Name="label" Content="Pesquisar Remédio:" HorizontalAlignment="Left" Margin="60,266,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnPesquisar" Content="Pesquisar" Margin="402,269,0,0" VerticalAlignment="Top" Click="btnPesquisar_Click" HorizontalAlignment="Left" Width="75"/>
+        <Button x:Name="btnSair1" Content="LOG OFF" VerticalAlignment="Top" Height="29" FontSize="8" Background="#FF2DB5E8" BorderBrush="#FF2DB5E8" Click="btnSair_Click" HorizontalAlignment="Right" Width="52"/>
+        <Image Margin="158,164,0,0" Source="36063748_1940821539542727_8216732737483046912_n.png" Stretch="Fill" HorizontalAlignment="Left" Width="267" Height="38" VerticalAlignment="Top"/>
+        <Image Margin="229,29,0,0" Source="LogoPNG.png" Stretch="Fill" HorizontalAlignment="Left" Width="130" Height="130" VerticalAlignment="Top"/>
+
+    </Grid>
+</Controls:MetroWindow>
