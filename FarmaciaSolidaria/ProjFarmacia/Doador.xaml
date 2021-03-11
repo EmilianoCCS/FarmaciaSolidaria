@@ -7,11 +7,11 @@
         mc:Ignorable="d"
         Title="Adicionar doador" Height="871.738" Width="860.123">
     <Grid>
-        <Label Content="Nome:" HorizontalAlignment="Left" Margin="45,209,0,0" VerticalAlignment="Top"/>
-        <TextBox x:Name="txtNome" Height="23" Margin="109,209,47,0" TextWrapping="Wrap" VerticalAlignment="Top" TabIndex="1"/>
+        <Label Content="Nome:" HorizontalAlignment="Left" Margin="45,210,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtNome" Height="23" Margin="109,210,47,0" TextWrapping="Wrap" VerticalAlignment="Top" TabIndex="1"/>
         <Label Content="CPF:" HorizontalAlignment="Left" Margin="45,241,0,0" VerticalAlignment="Top"/>
         <TextBox x:Name="txtCpf" Height="23" Margin="109,241,47,0" TextWrapping="Wrap" VerticalAlignment="Top" TabIndex="2" LostFocus="txtCpf_LostFocus" MaxLength="11" GotFocus="txtCpf_GotFocus" PreviewTextInput="txtCpf_PreviewTextInput"/>
-        <TextBox x:Name="txtEndereco" Height="23" Margin="109,271,47,0" TextWrapping="Wrap" VerticalAlignment="Top" TabIndex="3"/>
+        <TextBox x:Name="txtEndereco" Height="23" Margin="109,272,47,0" TextWrapping="Wrap" VerticalAlignment="Top" TabIndex="3"/>
         <Label Content="Estado UF:" HorizontalAlignment="Left" Margin="45,333,0,0" VerticalAlignment="Top"/>
         <ComboBox x:Name="gbxEstados" Margin="109,333,0,0" VerticalAlignment="Top" TabIndex="5" HorizontalAlignment="Left" Width="80">
             <ComboBoxItem Content="AC"/>
@@ -44,7 +44,7 @@
         </ComboBox>
         <Label Content="Cidade:" HorizontalAlignment="Left" Margin="227,333,0,0" VerticalAlignment="Top"/>
 
-        <Label Content="Telefone:" HorizontalAlignment="Left" Margin="45,365,0,0" VerticalAlignment="Top"/>
+        <Label Content="Telefone:" HorizontalAlignment="Left" Margin="45,364,0,0" VerticalAlignment="Top"/>
 
         <Button x:Name="btnCadastrar" Content="Cadastrar" Margin="317,425,0,0" Click="btnCadastrar_Click" TabIndex="9" Height="36" VerticalAlignment="Top" HorizontalAlignment="Left" Width="226"/>
         <Button x:Name="btnLimpar" Content="Limpar" Margin="651,425,0,0" Click="btnLimpar_Click" TabIndex="10" Height="36" VerticalAlignment="Top" HorizontalAlignment="Left" Width="112"/>
@@ -66,7 +66,7 @@
         <Label x:Name="label1" Content="Bairro:" HorizontalAlignment="Left" Margin="45,303,0,0" VerticalAlignment="Top"/>
         <TextBox x:Name="txtBairro" Height="23" Margin="109,303,47,0" TextWrapping="Wrap" VerticalAlignment="Top" TabIndex="4"/>
         <TextBox x:Name="txtCidade" Height="23" Margin="283,333,47,0" TextWrapping="Wrap" VerticalAlignment="Top" TabIndex="6"/>
-        <TextBox x:Name="txtTelefone" Height="23" Margin="109,365,47,0" TextWrapping="Wrap" VerticalAlignment="Top" TabIndex="7" LostFocus="txtTelefone_LostFocus" MaxLength="11" GotFocus="txtTelefone_GotFocus" PreviewTextInput="txtTelefone_PreviewTextInput"/>
+        <TextBox x:Name="txtTelefone" Height="23" Margin="109,364,47,0" TextWrapping="Wrap" VerticalAlignment="Top" TabIndex="7" LostFocus="txtTelefone_LostFocus" MaxLength="11" GotFocus="txtTelefone_GotFocus" PreviewTextInput="txtTelefone_PreviewTextInput"/>
         <DataGrid x:Name="dgDoador" Margin="45,561,48,0" CanUserAddRows="False" AutoGenerateColumns="False" Height="215" VerticalAlignment="Top">
             <DataGrid.Columns>
                 <DataGridTextColumn Binding="{Binding Path=Id}" Header="ID" />
