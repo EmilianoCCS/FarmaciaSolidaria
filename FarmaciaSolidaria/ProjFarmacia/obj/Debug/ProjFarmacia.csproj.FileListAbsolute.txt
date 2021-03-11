@@ -685,3 +685,26 @@ D:\Backup 03-09-19\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmaci
 D:\Backup 03-09-19\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.CoreCompileInputs.cache
 D:\Backup 03-09-19\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.exe
 D:\Backup 03-09-19\E T E C\TCC\Farmacia Solidária\ProjFarmacia v1.4\ProjFarmacia\obj\Debug\ProjFarmacia.pdb
+C:\Users\Emi\Documents\GitHub\FarmaciaSolidaria\FarmaciaSolidaria\ProjFarmacia\obj\Debug\ProjFarmacia.csprojAssemblyReference.cache
+C:\Users\Emi\Documents\GitHub\FarmaciaSolidaria\FarmaciaSolidaria\ProjFarmacia\obj\Debug\ConsultaEstoque.baml
+C:\Users\Emi\Documents\GitHub\FarmaciaSolidaria\FarmaciaSolidaria\ProjFarmacia\obj\Debug\Doador.baml
+C:\Users\Emi\Documents\GitHub\FarmaciaSolidaria\FarmaciaSolidaria\ProjFarmacia\obj\Debug\Instituicao.baml
+C:\Users\Emi\Documents\GitHub\FarmaciaSolidaria\FarmaciaSolidaria\ProjFarmacia\obj\Debug\MainWindow.baml
+C:\Users\Emi\Documents\GitHub\FarmaciaSolidaria\FarmaciaSolidaria\ProjFarmacia\obj\Debug\RemedioDoado.baml
+C:\Users\Emi\Documents\GitHub\FarmaciaSolidaria\FarmaciaSolidaria\ProjFarmacia\obj\Debug\Saida.baml
+C:\Users\Emi\Documents\GitHub\FarmaciaSolidaria\FarmaciaSolidaria\ProjFarmacia\obj\Debug\ConsultaEstoque.g.cs
+C:\Users\Emi\Documents\GitHub\FarmaciaSolidaria\FarmaciaSolidaria\ProjFarmacia\obj\Debug\Doador.g.cs
+C:\Users\Emi\Documents\GitHub\FarmaciaSolidaria\FarmaciaSolidaria\ProjFarmacia\obj\Debug\Instituicao.g.cs
+C:\Users\Emi\Documents\GitHub\FarmaciaSolidaria\FarmaciaSolidaria\ProjFarmacia\obj\Debug\MainWindow.g.cs
+C:\Users\Emi\Documents\GitHub\FarmaciaSolidaria\FarmaciaSolidaria\ProjFarmacia\obj\Debug\RemedioDoado.g.cs
+C:\Users\Emi\Documents\GitHub\FarmaciaSolidaria\FarmaciaSolidaria\ProjFarmacia\obj\Debug\Saida.g.cs
+C:\Users\Emi\Documents\GitHub\FarmaciaSolidaria\FarmaciaSolidaria\ProjFarmacia\obj\Debug\App.g.cs
+C:\Users\Emi\Documents\GitHub\FarmaciaSolidaria\FarmaciaSolidaria\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.cache
+C:\Users\Emi\Documents\GitHub\FarmaciaSolidaria\FarmaciaSolidaria\ProjFarmacia\obj\Debug\ProjFarmacia_MarkupCompile.lref
+C:\Users\Emi\Documents\GitHub\FarmaciaSolidaria\FarmaciaSolidaria\ProjFarmacia\obj\Debug\App.baml
+C:\Users\Emi\Documents\GitHub\FarmaciaSolidaria\FarmaciaSolidaria\ProjFarmacia\obj\Debug\ProjFarmacia.g.resources
+C:\Users\Emi\Documents\GitHub\FarmaciaSolidaria\FarmaciaSolidaria\ProjFarmacia\obj\Debug\ProjFarmacia.Properties.Resources.resources
+C:\Users\Emi\Documents\GitHub\FarmaciaSolidaria\FarmaciaSolidaria\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.GenerateResource.cache
+C:\Users\Emi\Documents\GitHub\FarmaciaSolidaria\FarmaciaSolidaria\ProjFarmacia\obj\Debug\ProjFarmacia.csproj.CoreCompileInputs.cache
+C:\Users\Emi\Documents\GitHub\FarmaciaSolidaria\FarmaciaSolidaria\ProjFarmacia\obj\Debug\ProjFarmacia.exe
+C:\Users\Emi\Documents\GitHub\FarmaciaSolidaria\FarmaciaSolidaria\ProjFarmacia\obj\Debug\ProjFarmacia.pdb
